@@ -55,7 +55,7 @@ loveBtn.addEventListener("click", () => {
 
     setTimeout(() => {
     phrase.remove();
-  }, 15000); // 10 segundos
+  }, 10000); // 10 segundos
 });
 
 // Fuegos artificiales
