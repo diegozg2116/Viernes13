@@ -62,7 +62,7 @@ canvas {
     opacity: 1;
   }
   100% {
-    transform: translateY(-200px);
+    transform: translateY(-500px);
     opacity: 0;
   }
 }
