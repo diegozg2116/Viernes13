@@ -53,9 +53,9 @@ loveBtn.addEventListener("click", () => {
   phrase.style.top = `${y}px`;
   phrase.style.visibility = "visible";
 
-  setTimeout(() => {
+    setTimeout(() => {
     phrase.remove();
-  }, 10000); // 10 segundos
+  }, 15000); // 10 segundos
 });
 
 // Fuegos artificiales
